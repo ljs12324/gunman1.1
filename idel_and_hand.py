@@ -14,6 +14,7 @@ import scapy
 # #send(pkt, return_packets=True)
 # send(pkt1, return_packets=True)
 # print(pkt1.time)
+我要加一句话测试一下
 
 #pkt = Ether(dst = "00:00:00:00:00:02",src = "00:00:00:00:00:01")/IP(dst="10.0.0.2",src="10.0.0.1")
 # for i in range(10):
